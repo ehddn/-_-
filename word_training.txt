@@ -1,0 +1,19 @@
+adult	female	work	pleasure	I'm so pleasure
+adult	female	marriage	pleasure	I have a nephew too! so glad
+middle_age	female	work	unrest	I'm worried that the next contract with the customer will be canceled.
+old_man	male	human_relationship	sadness	"I feel like I'm all alone in the world if my wife abandons me, but it'll only get worse."
+old_man	male	health	sadness	I'm worried because I haven't accomplished anything financially in my old age.
+old_man	female	human_relationship	unrest	I can't go to see Grandpa Kim these days because of Corona.
+adult	male	human_relationship	sadness	I was embarrassed that all my colleagues in the department had changed into different people in one day.
+teen	female	human_relationship	sadness	Today my brother had a fight with my mom because of me.
+adult	male	human_relationship	sadness	A co-worker died in a recent flood. Everyone is mourning
+old_man	male	health	anger	"My wife said she wanted to be tested, but she only bought medicine at the pharmacy, and eventually turned it into a big bottle."
+middle_age	female	work	anger	Manager Park said very insulting things to me.
+middle_age	female	human_relationship	anger	There was a conflict of opinion with the apartment's women's president over the issue of attending the women's meeting. I'm really stressed out.
+adult	male	marriage	pleasure	"Our child grew up early and matured, so we took care of our children comfortably."
+middle_age	female	health	sadness	I had a health checkup yesterday and my condition is very bad.
+middle_age	male	health	anger	"Oh, it bothers me to go to the hospital again."
+middle_age	female	health	pleasure	I guess my husband is in a good mood for investing in stocks.
+adult	female	marriage	sadness	my boyfriend cheated on me
+adult	male	marriage	pleasure	I'm glad I'm dating my girlfriend now
+adult	male	human_relationship	sadness	I met a friend today and it was really disappointing.
