@@ -1,12 +1,12 @@
 # 상명대학교 게임 인공지능 전공 수업
 
 ## 발표자료
-+  ![image](https://user-images.githubusercontent.com/27190634/215042913-ff4bb378-8ead-4dd3-a841-5207943440a7.png)
-+  ![image](https://user-images.githubusercontent.com/27190634/215042931-fd3bd85b-3748-48c9-a3bb-cdf1d8cf76ed.png)
-+  ![image](https://user-images.githubusercontent.com/27190634/215042959-cb0c14e7-2792-40a4-acc9-777387639f66.png)
-+  ![image](https://user-images.githubusercontent.com/27190634/215042987-3401325c-09b8-4309-9e9d-b5eb63a907e7.png)
-+  ![image](https://user-images.githubusercontent.com/27190634/215043005-70915d17-05ae-4ce5-b371-9751a2390a7f.png)
-+  ![image](https://user-images.githubusercontent.com/27190634/215043010-bb7b14bd-eb5f-40ca-8c5d-7dd87385ae99.png)
+[image](https://user-images.githubusercontent.com/27190634/215042913-ff4bb378-8ead-4dd3-a841-5207943440a7.png)
+[image](https://user-images.githubusercontent.com/27190634/215042931-fd3bd85b-3748-48c9-a3bb-cdf1d8cf76ed.png)
+![image](https://user-images.githubusercontent.com/27190634/215042959-cb0c14e7-2792-40a4-acc9-777387639f66.png)
+![image](https://user-images.githubusercontent.com/27190634/215042987-3401325c-09b8-4309-9e9d-b5eb63a907e7.png)
+![image](https://user-images.githubusercontent.com/27190634/215043005-70915d17-05ae-4ce5-b371-9751a2390a7f.png)
+![image](https://user-images.githubusercontent.com/27190634/215043010-bb7b14bd-eb5f-40ca-8c5d-7dd87385ae99.png)
 
 
 ## 코드 분석
